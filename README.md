@@ -1,5 +1,8 @@
 
-# TaskFlow API Bartosz Jędrzejczak
+# TaskFlow API 
+
+## Autor 
+Bartosz Jędrzejczak 
 
 ## Opis 
 TaskFlow API - Ćwiczenie 1
@@ -10,3 +13,5 @@ TaskFlow API - Ćwiczenie 1
 - ASP.NET Core Web API
 - Git
 
+
+## Niewielkie zmiany w README
